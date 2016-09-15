@@ -1,0 +1,8 @@
+{
+  "name": "aacmdparse",
+  "version": "1.0.0",
+  "description": "Bash command flag parser that places its output in an associative array.",
+  "scripts": [ "aacmdparse.bash" ],
+  "files": [ "resplit.awk" ],
+  "install": "make install"
+}
