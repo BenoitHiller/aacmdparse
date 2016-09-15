@@ -4,7 +4,7 @@ aacmdparse.bash is a bash library that allows your code to parse command line ar
 
 ## Installation
 
-    bpkg stephenhamilton/aacmdparse
+    bpkg install stephenhamilton/aacmdparse
 
 ## Usage
 
